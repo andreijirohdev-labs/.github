@@ -1,25 +1,24 @@
-# Andrei Jiroh's Experiments
+# Lairland HQ Labs
 
-This namespace on GitHub/GitLab SaaS and sr.ht projet grouping is where ~ajhalili2006 usually store experimental,
-sometimes archived code and stuff in this namespace. No support is given for these experimental projects unless
-otherwise noted and contributions will most likely to be ignored.
+Home of [@andreijiroh.dev](https://andreijiroh.dev)'s experimental projects at [Lairland HQ](https://lairland.is-a.dev), his virtual hacker/makerspace.
 
 ## Mirrors
 
 Most of the code under this namespace are published on GitLab SaaS with mirrors across GitHub and SourceHut's hosted service.
 
-* GitLab: <https://gitlab.com/ajhalili2006-experiments>
-* GitHub: <https://github.com/ajhalili2006-experiments>
+* GitLab: <https://gitlab.com/andreijiroh-dev/labs>
+* GitHub: <https://github.com/andreijirohdev-labs>
 * SourceHut hosted service: <https://sr.ht/~ajhalili2006-experiments>, specifically the project page at
 <https://sr.ht/~ajhalili2006-experiments/experimental-personal-projects>
-* mau.dev: <https://mau.dev/ajhalili2006-experiments>
+* mau.dev: <https://mau.dev/andreijiroh-dev/labs>
 
 Although projects in this namespace are separate from the usual Recap Time Squad's namespaces used in these
 services, the official git mirrors docs still apply here though a bit different:
-<https://man.sr.ht/~recaptime-dev/mirrors.recaptime.dev/git-mirrors/crew-personal-projects/ajhalili2006.md>
+<https://hq.recaptime.dev/wiki/User:Ajhalili2006/personal_projects>
 
 ## Support and Bug Reports
 
-Either through the issue tracker at <https://gitlab.com/ajhalili2006/ajhalili2006/issues> or in my
-public inbox mailing list at `~ajhalili2006/public-inbox@lists.sr.ht`, but as noted above that since most
-projects in this namespace are experimental, no support is given.
+Either through the issue tracker at [GitLab](https://gitlab.com/andreijiroh-dev/personal-launchpad/-/issues) /
+[GitHub](https://github.com/andreijiroh-dev/personal-launchpad/issues) or in my public inbox mailing list at
+`~ajhalili2006/public-inbox@lists.sr.ht`, but as noted above that since most projects in this namespace are experimental,
+things may break and may not able to handle support reuests if you fork them (so be warned).
